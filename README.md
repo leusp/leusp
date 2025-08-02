@@ -1,6 +1,6 @@
 ## Hi! I'm Princess 👋
 
-I'm a Senior at Occidental College majoring in Computer Science and minoring in Media Arts in Culture. I'm interested in ML, Data Engineering, and UX/UI!  
+I'm a Senior at Occidental College majoring in Computer Science and minoring in Media Arts in Culture. I'm interested in Data Science, ML, Data Engineering, and UX/UI!  
 
 Feel free to reach out or connect! 😄    
 <a href="mailto:leusp@oxy.edu">![leusp@oxy.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/leusprincess/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
